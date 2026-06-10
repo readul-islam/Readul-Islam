@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h3 align="center">Full Stack Developer | MERN Specialist | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Vibe Coding</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=600&height=30&lines=Assalamu+Alaikum+Warahmatullah.;Building+scalable+web+applications;Passionate+about+clean+code+%26+DSA;4%2B+years+of+development+experience" alt="Typing SVG" />
