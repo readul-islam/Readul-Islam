@@ -24,7 +24,6 @@ I'm a dedicated **Full Stack Developer** with a passion for building efficient, 
 - 💼 **Most recent:** Full Stack Developer at [Standard Insights](https://standard-insights.com) *(Nov 2024 - July 2026)*
 - 📚 **Currently learning:** Data Structures & Algorithms to level up my problem-solving skills
 - 🤝 **Open to collaboration on:** MERN stack projects, open-source contributions, or any interesting challenge
-- 🌐 **Portfolio:** [developer-readul.xyz](https://developer-readul.xyz)
 - 📄 **Resume:** [Download CV](https://drive.google.com/file/d/1ua-dJwB3QsDMt5_BDYvM0f-odZJQ7bAT/view?usp=sharing)
 - 📧 **Email:** [developer.readul@gmail.com](mailto:developer.readul@gmail.com)
 - 💡 **Fun fact:** I love solving complex challenges and believe that **patience + resilience = success**
