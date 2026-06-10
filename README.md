@@ -20,7 +20,8 @@
 
 I'm a dedicated **Full Stack Developer** with a passion for building efficient, scalable, and user-friendly web applications. My journey in tech is driven by curiosity and the desire to solve real-world problems through code.
 
-- 🔭 **Currently working at:** [Standard Insights](https://standard-insights.com) — Building data-driven solutions
+- 🎯 **Status:** Open to work | Available for Full Stack Developer roles
+- 💼 **Most recent:** Full Stack Developer at [Standard Insights](https://standard-insights.com) *(2024 - June 2025)*
 - 📚 **Currently learning:** Data Structures & Algorithms to level up my problem-solving skills
 - 🤝 **Open to collaboration on:** MERN stack projects, open-source contributions, or any interesting challenge
 - 🌐 **Portfolio:** [developer-readul.xyz](https://developer-readul.xyz)
